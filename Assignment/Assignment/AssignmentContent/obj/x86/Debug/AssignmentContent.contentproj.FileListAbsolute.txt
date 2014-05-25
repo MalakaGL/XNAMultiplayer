@@ -1,0 +1,2 @@
+D:\Semester 4\Programming Challenge II\XnaAssignment\Assignment\Assignment\AssignmentContent\obj\x86\Debug\AssignmentContent.contentprojResolveAssemblyReference.cache
+E:\Semester 4\Programming Challenge II\XnaAssignment\Assignment\Assignment\AssignmentContent\obj\x86\Debug\AssignmentContent.contentprojResolveAssemblyReference.cache
